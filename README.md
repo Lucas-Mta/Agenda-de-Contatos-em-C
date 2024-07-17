@@ -1,6 +1,6 @@
 # Agenda de Contatos em C
 
-## Descrição
+## ℹ️ Descrição
 Este é um projeto de uma agenda de contatos desenvolvida em linguagem C, criado como parte de um trabalho para a disciplina Algoritmos e Programação de Computadores II, na Unicamp. 
 A agenda permite adicionar, visualizar, buscar, editar e remover contatos.
 
